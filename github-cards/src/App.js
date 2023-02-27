@@ -42,7 +42,7 @@ class Form extends React.Component {
     return (
       <form action="">
         <input type="text" placeholder='GitHub username' />
-        <button>Add card</button>
+        <button>Add card here</button>
       </form>
     )
   }
