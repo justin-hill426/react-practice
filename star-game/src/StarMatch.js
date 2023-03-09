@@ -30,7 +30,7 @@ const StarMatch = () => {
           <button className="number">9</button>
         </div>
       </div>
-      <div className="timer">Time Remaining: 10 secs</div>
+      <div className="timer">Time Remaining: 10</div>
     </div>
   );
 };
