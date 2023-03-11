@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState } from 'react';
 
+// GMAT
 const StarMatch = () => {
   const [stars, setStars] = useState(utils.random(1, 9));
   return (
